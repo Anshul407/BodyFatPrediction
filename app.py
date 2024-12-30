@@ -1,10 +1,10 @@
 import streamlit as st
-import joblib
+import pickle
 import pandas as pd
 import numpy as np
 
 # Load the trained model
-model = joblib.load('model.sav')
+model = pickle.load('model.sav')
 
 # Function to predict body fat
 def predict_body_fat(data):
