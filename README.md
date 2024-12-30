@@ -35,7 +35,7 @@ This project leverages Ridge Regression, a machine learning algorithm known for 
 - **Data Insights**: Identifies the positive relationship between age, body weight, and body fat percentage, enhancing the prediction accuracy.
 - **Model Evaluation**: Evaluation of model performance using metrics like Mean Squared Error (MSE) and R-squared.
 
-## Reasearch Link
+## Research Link
 [https://ieeexplore.ieee.org/document/10563603/](https://ieeexplore.ieee.org/document/10563603/)
 
 
